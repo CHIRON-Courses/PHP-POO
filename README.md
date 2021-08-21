@@ -1,4 +1,4 @@
-# PHP Programmation Orientée Objet - Les classes avec PHP
+# Programmation Orientée Objet - Les classes avec PHP
 
 ## Public concerné
 
