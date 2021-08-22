@@ -1,4 +1,4 @@
-# Sommaire - PHP
+# Sommaire - PHP POO
 
 - [Introduction à l'objet](01_introduction.md)
 - [Visibilité](02_visibilite.md)
