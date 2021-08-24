@@ -20,7 +20,7 @@ $obj->publicMethod(); // Public method
 
 Une propriété ou une méthode `public` est accessible partout.
 
-La bonne pratique consiste à ne pas déclarer les propriétés public pour ne pas compromettre l'intégrité des données et préserver le bon fonctionnement des méthodes. En revanche, les méthodes appelées `Getter` ou `Setter` seront public parce qu'elles permettent de récupérer ou d'assigner des valeurs à nos propriétés.
+La bonne pratique consiste à ne pas déclarer les propriétés public pour ne pas compromettre l'intégrité des données et préserver le bon fonctionnement des méthodes. En revanche, les méthodes `Getter` ou `Setter` (respectivement appelées `Assesseur` et `Mutateur`) seront public parce qu'elles permettent de récupérer ou d'assigner des valeurs à nos propriétés.
 
 ## Private
 
