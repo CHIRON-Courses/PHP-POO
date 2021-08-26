@@ -1,4 +1,3 @@
-
 # [Le constructeur](https://www.php.net/manual/fr/language.oop5.decon.php)
 
 ## Déclaration
@@ -64,6 +63,8 @@ class Personne
 $pers = new Personne("Hello");
 echo $pers->message;
 ```
+
+> Vous le remarquerez plus tard qu'avec Symfony il ne sera pas possible de faire de la promotion dans le constructeur.
 
 ----------
 

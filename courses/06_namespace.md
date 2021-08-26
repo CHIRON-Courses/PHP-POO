@@ -53,7 +53,8 @@ Dans le fichier composer.json nous allons ajouter une section pour **déclarer n
 ```json
 "autoload": {
     "psr-4": {
-        "App\\": "src/"
+        "App\\": "src/",
+        "Test\\": "tests/"
     }
 }
 ```

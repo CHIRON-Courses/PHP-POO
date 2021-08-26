@@ -1,5 +1,7 @@
 # Architecture MVC
 
+L'architecture MVC est un `design pattern`.
+
 ## Séparation des attributions entre scripts
 
 Les attributions ou `responsabilités` sont indispensables pour correctement séparer, `découpler nos classes` afin de pouvoir les réutiliser et écrire un code spécialisé, nous allons observer différentes attributions.
