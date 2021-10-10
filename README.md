@@ -19,4 +19,4 @@ Si ces connaissances n'ont pas été acquises au préalablement, elles devront l
 
 ## Support de cours
 
-[Sommaire](courses/00_sommaire.md)
+[Wiki](https://github.com/CHIRON-Courses/PHP-POO/wiki)

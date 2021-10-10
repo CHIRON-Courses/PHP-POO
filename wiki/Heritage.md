@@ -106,4 +106,4 @@ echo $obj->target; // World
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

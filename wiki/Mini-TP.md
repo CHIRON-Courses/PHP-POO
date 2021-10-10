@@ -17,4 +17,4 @@ Je vous demande de me développer, grâce aux connaissances en objet que vous av
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

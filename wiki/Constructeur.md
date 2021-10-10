@@ -91,4 +91,4 @@ exit(); // Destruction de l'objet de la classe Personne
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

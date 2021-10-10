@@ -76,4 +76,4 @@ Les responsabilités étant affinées chaque élément peut être `réutilisé`.
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

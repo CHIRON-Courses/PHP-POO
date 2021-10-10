@@ -59,4 +59,4 @@ echo Personne::class; // App\Personne
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

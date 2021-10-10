@@ -79,4 +79,4 @@ Quand une classe est instanciée, si elle n'est pas déjà présente dans notre 
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)

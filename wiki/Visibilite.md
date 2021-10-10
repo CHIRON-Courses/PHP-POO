@@ -64,4 +64,4 @@ Une propriété ou une méthode `protected` est accessible à la classe elle mê
 
 ----------
 
-[Retour au sommaire](00_sommaire.md)
+[Retour au sommaire](_Sidebar.md)
